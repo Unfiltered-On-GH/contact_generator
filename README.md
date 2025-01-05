@@ -1,4 +1,4 @@
-# vCard Generator for Zimbabwean and Custom Contact Numbers
+# vCard Generator for Custom Contact Numbers
 
 This script generates vCards for phone numbers using customizable prefixes and numeric lengths, offering flexibility for various use cases. It is designed to be flexible, allowing you to:
 
